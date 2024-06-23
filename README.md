@@ -1,1 +1,3 @@
-# MySQL-samle
+# SELECT *
+# FROM doctors
+# WHERE spec IS NULL
